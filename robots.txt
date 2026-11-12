@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airichan202.github.io/story-books-research/sitemap.xml
