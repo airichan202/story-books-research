@@ -1,0 +1,18 @@
+# Internal tooling (not needed on production)
+.agents/
+.claude/
+skills-lock.json
+
+# Source data / generator scripts
+*.js
+*.json
+story-books-keywords.txt
+all-keywords.json
+generate-articles.js
+regen-stem.js
+gen-*.js
+
+# OS junk
+.DS_Store
+Thumbs.db
+*.log
